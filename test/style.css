@@ -1,0 +1,58 @@
+body {background-color: rgb(0, 255, 179);
+
+}
+nav{
+    background-color: rgba(188, 43, 218, 0.932);
+    padding: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: italic;
+    text-align: justify;
+    text-decoration-color: rgb(139, 0, 76);
+}
+h1{
+    background-color: rgba(255, 0, 200, 0.678);
+    font-size: 30px;
+    font-style: italic;
+}
+p{
+    background-color: rgba(224, 13, 231, 0.829);
+    font-style: italic;
+    font-size: 30px;
+}
+
+img{
+    border-color: rgba(255, 0, 191, 0.705);
+    border-radius:90px;
+    border-style: dotted;
+    
+}
+  
+table
+
+    th{
+       background-color: aliceblue;
+       font-size: 30px;
+} 
+    
+    
+    td{
+        background-color: rgb(240, 244, 248);
+        font-size: 30px;
+  }
+
+form{
+
+   background-color: rgba(214, 107, 170, 0.788);
+    font-size: medium;
+    font-style: oblique;  
+
+}
+
+    
+footer{
+    background-color: rgb(221, 216, 219);
+    font-style: italic;
+    font-size: 20px;
+
+}
